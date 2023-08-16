@@ -6,6 +6,10 @@ defaultconfigs/
 essential/
 journeymap/
 logs/
+libraries/
+mod_data/
+.gitignore
+minecraft_server.1.16.5.jar
 world/
 eula.txt
 forge-1.19.4-45.1.0-installer.jar
